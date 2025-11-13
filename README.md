@@ -38,6 +38,26 @@ moonlight-storyhouse-ai-tts/
 ├─ README.md                  ← 此說明文件
 ├─ colab_demo.ipynb  ← TTS + Timestamp 範例程式（無 API Key）
 ├─ samples/text/              ← 小段故事示例（非完整版）
-├─ samples/audio/             ← 短音訊示例（1 分鐘以內）
 ├─ assets/banner.png          ← YouTube 頻道 Banner
 └─ assets/icon.png            ← 頻道 icon
+```
+
+## 3. Features｜功能特色
+- AI-generated narration with natural pacing | 以 AI 生成自然語氣的故事旁白
+- Timestamp alignment and SRT subtitle generation | 自動計算時間軸與產生 SRT 字幕
+- Multi-style story writing (gentle horror, apocalyptic, healing) | 多風格故事撰寫（東方靈異、末日、森林療癒）
+- Illustrations created with AI image generation | 以 AI 生成的故事插圖與封面
+- Branding & publishing workflow for YouTube | YouTube 影片製作、品牌設計與封面優化流程
+
+## 4. Copyright & Content Notes｜版權與內容說明
+- Full-length stories are not included in this repository to protect creative ownership. | 為保護創作權，本 Repo 不包含完整故事全文。
+- AI-generated narration and artwork are part of this project’s creative identity and may not be reused without permission. | 本專案中的語音與插圖皆屬創作展示的一部分，未經允許請勿重製或商用。
+
+## 5. Support｜支持專案
+If you enjoy these stories, consider subscribing to the YouTube channel:
+Moonlight Story House｜月光下的故事館
+
+若你喜歡這些故事，也歡迎訂閱頻道「月光下的故事館」，
+讓月光下的宇宙，可以陪更多人入睡。🌙
+
+https://www.youtube.com/@StoryVerseStoryHouse
