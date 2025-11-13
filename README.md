@@ -37,9 +37,9 @@ moonlight-storyhouse-ai-tts/
 │
 ├─ README.md                  ← 此說明文件
 ├─ colab_demo.ipynb  ← TTS + Timestamp 範例程式（無 API Key）
-├─ samples/text/              ← 小段故事示例（非完整版）
-├─ assets/banner.png          ← YouTube 頻道 Banner
-└─ assets/icon.png            ← 頻道 icon
+├─ samples_text.txt              ← 小段故事示例（非完整版）
+├─ banner.png          ← YouTube 頻道 Banner
+└─ icon.png            ← 頻道 icon
 ```
 
 ## 3. Features｜功能特色
